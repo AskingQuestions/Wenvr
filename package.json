@@ -1,0 +1,12 @@
+{
+  "name": "Wenvr",
+  "description": "Simple web file manager",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "dependencies": {
+    "grunt-browserify": "^5.2.0"
+  },
+  "author": "Echorial"
+}
